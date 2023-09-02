@@ -19,7 +19,7 @@ Outliers are identified and removed from columns like lead_time, ADR (average da
 ### Data Visualization
 Visualizations are performed to understand relationships between variables. Univariate, bivariate, and multivariate analyses are conducted using various chart types such as bar plots, count plots, and pie charts.
 
-## Correlation Analysis
+### Correlation Analysis
 The project concludes with a heatmap to visualize correlations between different variables in the dataset.
 
 By following these steps, the Hotel Bookings Analysis project aims to provide valuable insights into hotel booking patterns, guest demographics, and factors influencing bookings in the hospitality industry.
